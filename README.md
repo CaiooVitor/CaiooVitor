@@ -2,18 +2,15 @@
 
 🎓 Estudante e desenvolvedor em formação  
 💡 Apaixonado por programação e tecnologia  
-🚀 Explorando o mundo do desenvolvimento web e back-end  
-📌 Em constante aprendizado de C#, JavaScript, HTML, CSS e Git
+🚀 Explorando o desenvolvimento **back-end com C#** e **web com JavaScript**  
+📌 Sempre em busca de aprimorar minhas habilidades técnicas e boas práticas
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias Principais
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -30,11 +27,6 @@
 
 ---
 
-## ✨ Projetos em destaque
-
-🔧 Em breve...
-
----
-
-🧠 *"Educar é tocar o futuro com as mãos do presente."*  
+🧠 *“Educar é tocar o futuro com as mãos do presente.”*  
 📚 *Sempre aprendendo, sempre evoluindo.*
+
