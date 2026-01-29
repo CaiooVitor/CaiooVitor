@@ -46,12 +46,6 @@ Projeto educacional desenvolvido para praticar **lógica de programação** e co
 
 ---
 
-## 📈 GitHub Stats
-
-![CaiooVitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiooVitor&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-Caio%20Vitor%20Fonseca%20Diniz-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-fonseca-diniz-037485257/)
